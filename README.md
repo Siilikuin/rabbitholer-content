@@ -18,13 +18,11 @@ What you are reading
 right now is
 [a properly-formatted example post from `rabbitholer-content`](https://github.com/Siilikuin/rabbitholer-content).
 
-You will need 4 tags in your YAML frontmatter, although only
-`title` needs to actually have anything in it:
+All your posts will need at least a `title` tag. You may also want
 
-- A `title`,
-- A `subtitle`,
-- A `date`, and
-- a set of `tags`.
+- A `subtitle` tag,
+- A `date` tag, in `YYYY-MM-DD` format, and
+- a set of `tags` to aid future navigators.
 
 After that, you can put in whatever Markdown you want!
 

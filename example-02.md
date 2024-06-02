@@ -1,7 +1,6 @@
 ---
 title: "Example 2"
-subtitle:
-date: 
+subtitle: "hot tamale!"
 tags:
 - rabbitholer
 - example
